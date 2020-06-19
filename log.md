@@ -16,7 +16,6 @@ Look for small and begginers projects ideas
 
 **Thoughts:** 
 
-**Link to work:** https://www.greenme.com.br/alimentarse/vegetariano-e-vegano/6670-salsicha-vegetal-receitas/
-
+**Link to work:** 
 
 
