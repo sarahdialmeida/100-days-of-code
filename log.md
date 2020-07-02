@@ -10,12 +10,12 @@ Learn about how send the challenges to GitHub
 Look for small and begginers projects ideas
 
 
-### Day 1: 
+### Day 1: 1st of July
 
-**Today's Progress**: 
+**Today's Progress**: Started and finished 
 
-**Thoughts:** 
+**Thoughts:** Decided to start the journey from 0 with the FreeCodeCamp´s Responsive Web Design Certification.
 
-**Link to work:** 
+**Link to work:** [HTML & HTML5](https://github.com/sarahdialmeida/html-html5/blob/master/HTML-HTML5.html)
 
 
