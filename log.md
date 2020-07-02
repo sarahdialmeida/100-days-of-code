@@ -1,4 +1,4 @@
-<h1 align="center">100 Days Of Code with Joe Warren</h1>
+<h1 align="center">100 Days Of Code with Sarah Almeida</h1>
 
 ### Day 0: 
 Formulate a plan: starting a journey of learning to code
