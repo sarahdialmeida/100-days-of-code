@@ -12,7 +12,7 @@ Look for small and begginers projects ideas
 
 ### <h2 align=”center”>Day 1: 1st of July, 2020</h2>
 
-<img src=”https://photos.app.goo.gl/qDF1go4sJZt8xs7M7" alt=”Day One from Sarah”>
+<a href="https://lh3.googleusercontent.com/xxFrkXmVT3IQE1uDJOGzpTo0OJskjvnmqnlz12KBEUxBTDC9K0CHdwZLuJ6Ym-RBGq0m-f6bymK85HULQfc-lxme3AOzD99FLZs01ZLENFAwUfAW1CynFBCngpTP-q1lcJj5VSPgcw=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/xxFrkXmVT3IQE1uDJOGzpTo0OJskjvnmqnlz12KBEUxBTDC9K0CHdwZLuJ6Ym-RBGq0m-f6bymK85HULQfc-lxme3AOzD99FLZs01ZLENFAwUfAW1CynFBCngpTP-q1lcJj5VSPgcw=w600-h315-p-k" /> </a>
 
 **Today's Progress**: Started and finished the [FreeCodeCamp](https://www.freecodecamp.org/learn) HTM & MTML challenge 
 
