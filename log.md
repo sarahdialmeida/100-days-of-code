@@ -1,4 +1,8 @@
 <h1 align="center">100 Days Of Code with Sarah Almeida</h1>
+______
+
+  ![](https://media.giphy.com/media/S8ToH7Zt8gZ4u2iClh/giphy.gif) 
+
 
 ## Day 0: 
 
@@ -12,7 +16,7 @@ After asking myself how should I start, reading a lot on blogs and Twitter about
 
  
 
-
+_______
 <h2 align=”center”>Day 1: 1st of July, 2020</h2>
 
 <a href="https://lh3.googleusercontent.com/xxFrkXmVT3IQE1uDJOGzpTo0OJskjvnmqnlz12KBEUxBTDC9K0CHdwZLuJ6Ym-RBGq0m-f6bymK85HULQfc-lxme3AOzD99FLZs01ZLENFAwUfAW1CynFBCngpTP-q1lcJj5VSPgcw=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/xxFrkXmVT3IQE1uDJOGzpTo0OJskjvnmqnlz12KBEUxBTDC9K0CHdwZLuJ6Ym-RBGq0m-f6bymK85HULQfc-lxme3AOzD99FLZs01ZLENFAwUfAW1CynFBCngpTP-q1lcJj5VSPgcw=w600-h315-p-k" /> </a>
@@ -24,7 +28,7 @@ After asking myself how should I start, reading a lot on blogs and Twitter about
 **Link to work:** [HTML & HTML5](https://github.com/sarahdialmeida/html-html5/blob/master/HTML-HTML5.html)
  
 
-
+_________
 ### <h2 align=”center”>Day 2: 2nd of July, 2020</h2>
 
 
