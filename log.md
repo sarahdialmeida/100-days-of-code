@@ -1,6 +1,6 @@
 <h1 align="center">100 Days Of Code with Sarah Almeida</h1>
 
-### Day 0: 
+## Day 0: 
 Formulate a plan: starting a journey of learning to code
 
 Get familiar with GitHub
@@ -10,7 +10,7 @@ Learn about how send the challenges to GitHub
 Look for small and begginers projects ideas
 
 
-### <h2 align=”center”>Day 1: 1st of July, 2020</h2>
+<h2 align=”center”>Day 1: 1st of July, 2020</h2>
 
 <a href="https://lh3.googleusercontent.com/xxFrkXmVT3IQE1uDJOGzpTo0OJskjvnmqnlz12KBEUxBTDC9K0CHdwZLuJ6Ym-RBGq0m-f6bymK85HULQfc-lxme3AOzD99FLZs01ZLENFAwUfAW1CynFBCngpTP-q1lcJj5VSPgcw=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/xxFrkXmVT3IQE1uDJOGzpTo0OJskjvnmqnlz12KBEUxBTDC9K0CHdwZLuJ6Ym-RBGq0m-f6bymK85HULQfc-lxme3AOzD99FLZs01ZLENFAwUfAW1CynFBCngpTP-q1lcJj5VSPgcw=w600-h315-p-k" /> </a>
 
@@ -23,7 +23,12 @@ Look for small and begginers projects ideas
 **Link to tweet:** [Sarah Day 1](insertLinkToTweet)
 
 
+
 ### <h2 align=”center”>Day 2: 2nd of July, 2020</h2>
+
+
+<a href="https://lh3.googleusercontent.com/Qhd8anhRp_s7OUtwWd0QrVVQKY_qZJNlgVuPv-1i2R_3rABwm_5zr3aXJMzgiPm-wmkobvatUiI5bYj-p15WIE0YmkqJj4yRF_nWGeR2yRXmTw6xvJJdNmV73_Euz6MS6Omdf82kMA=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/Qhd8anhRp_s7OUtwWd0QrVVQKY_qZJNlgVuPv-1i2R_3rABwm_5zr3aXJMzgiPm-wmkobvatUiI5bYj-p15WIE0YmkqJj4yRF_nWGeR2yRXmTw6xvJJdNmV73_Euz6MS6Omdf82kMA=w600-h315-p-k" /> </a>
+
 
 **Today's Progress**: Started and finished the [FreeCodeCamp](https://www.freecodecamp.org/learn) HTM & MTML challenge 
 
