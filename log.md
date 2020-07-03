@@ -1,5 +1,5 @@
 <h1 align="center">100 Days Of Code with Sarah Almeida</h1>
-______
+
 
   ![](https://media.giphy.com/media/S8ToH7Zt8gZ4u2iClh/giphy.gif) 
 
