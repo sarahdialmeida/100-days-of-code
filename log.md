@@ -1,13 +1,16 @@
 <h1 align="center">100 Days Of Code with Sarah Almeida</h1>
 
 ## Day 0: 
-Formulate a plan: starting a journey of learning to code
 
-Get familiar with GitHub
+After asking myself how should I start, reading a lot on blogs and Twitter about other people´s experience, making many mistakes, exploring deeply GitHub and VS I designed a plan:
 
-Learn about how send the challenges to GitHub 
+- Follow the challenges from the FreeCodeCamp Responsive Web Design Certification
+- Code at Visual Studio Code
+- Push the codes to GitHub
+- Feed the log journal at GitHub
+- Tweet
 
-Look for small and begginers projects ideas
+ 
 
 
 <h2 align=”center”>Day 1: 1st of July, 2020</h2>
@@ -20,8 +23,6 @@ Look for small and begginers projects ideas
 
 **Link to work:** [HTML & HTML5](https://github.com/sarahdialmeida/html-html5/blob/master/HTML-HTML5.html)
  
-**Link to tweet:** [Sarah Day 1](insertLinkToTweet)
-
 
 
 ### <h2 align=”center”>Day 2: 2nd of July, 2020</h2>
@@ -36,7 +37,6 @@ Look for small and begginers projects ideas
 
 **Link to work:** [CSS]()
  
-**Link to tweet:** [Sarah Day 2](insertLinkToTweet)
 
 
 
