@@ -1,4 +1,8 @@
-<h1 align="center">100 Days Of Code with Sarah Almeida</h1>
+<h1>100 Days Of Code with Sarah Almeida</h1>
+
+
+
+
 
 
   ![](https://media.giphy.com/media/S8ToH7Zt8gZ4u2iClh/giphy.gif) 
@@ -39,7 +43,7 @@ _________
 
 **Thoughts:** Started with the Basic CSS challenges
 
-**Link to work:** [CSS]()
+**Link to work:** [CSS](https://github.com/sarahdialmeida/CSS)
  
 
 
