@@ -10,7 +10,7 @@
 
 ## Day 0: 
 
-After asking myself how should I start, reading a lot on blogs and Twitter about other people´s experience, making many mistakes, exploring deeply GitHub and VS I designed a plan:
+After asking myself how should I start, reading a lot on blogs and Twitter about other people´s experience, making many mistakes, exploring deeply GitHub and VS, I designed a plan:
 
 - Follow the challenges from the FreeCodeCamp Responsive Web Design Certification
 - Code at Visual Studio Code
